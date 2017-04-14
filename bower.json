@@ -1,0 +1,24 @@
+{
+  "name": "directorysearch",
+  "description": "place to find whatever you need",
+  "main": "index.js",
+  "authors": [
+    "Nagaraju",
+    "Shanthiya"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "place",
+    "finder",
+    "company",
+    "finder",
+    "etc."
+  ],
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-ui-router": "^0.4.2",
+    "angular-resource": "^1.6.2",
+    "ng-file-upload": "^12.2.13"
+  }
+}
